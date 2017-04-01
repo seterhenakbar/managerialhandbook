@@ -61,31 +61,31 @@ Dilakukan setiap awal minggu, dengan waktu yang disepakati oleh masing-masing ci
 ### Monthly Meeting
 Dilakukan setiap akhir bulan untuk berkordinasi lintas Circle. Pertemuan bersifat collective reporting, yaitu saling melaporkan dan sharing perkembangan capaian KPI masing masing Circle.
 
-### Grouping (Per Q2 2017)
+### List of Circles (Per Q2 2017)
 ##### 	Circle Production (PRD)
-		Terdiri dari manager dengan peran:
-		1. Design Thinking Project Manager (DTP)
-		2. SCRUM Project Manager (SCP)
-		3. Internal Research (IRS)
+	Terdiri dari manager dengan peran:
+	1. Design Thinking Project Manager (DTP)
+	2. SCRUM Project Manager (SCP)
+	3. Internal Research (IRS)
 ##### 	Circle Operations (OPS)
-		Terdiri dari manager dengan peran:
-		1. Finance Manager (FIN)
-		2. Human Resources Manager (HRM)
-		3. General Administrative Manager (GAM)
-		4. Process Documentation Manager (PDC)
-		5. Freelancer Relations Manager (FLR)
+	Terdiri dari manager dengan peran:
+	1. Finance Manager (FIN)
+	2. Human Resources Manager (HRM)
+	3. General Administrative Manager (GAM)
+	4. Process Documentation Manager (PDC)
+	5. Freelancer Relations Manager (FLR)
 ##### 	Circle Sales (SLS)
-		Terdiri dari manager dengan peran:
-		1. Research Consultant Manager (RCM)
-		2. Account Executive Manager (AEM)
+	Terdiri dari manager dengan peran:
+	1. Research Consultant Manager (RCM)
+	2. Account Executive Manager (AEM)
 ##### 	Circle Marketing (MKT)
-		Terdiri dari manager dengan peran:
-		1. Content & Media Marketing Manager (CMM)
-		2. Market Research Manager (MRS)
+	Terdiri dari manager dengan peran:
+	1. Content & Media Marketing Manager (CMM)
+	2. Market Research Manager (MRS)
 ##### 	Circle Training (TRN)
-		Terdiri dari manager dengan peran:
-		1. SCRUM Training Manager (SCM)
-		2. Design Thinking Training Manager (DTM)
+	Terdiri dari manager dengan peran:
+	1. SCRUM Training Manager (SCM)
+	2. Design Thinking Training Manager (DTM)
 
 ## Managers
 Manager merupakan komponen penyusun circle di dalam struktur holacracy Labtek Indie. Manager merupakan individual yang memiliki tanggung jawab untuk menyusun program, mengeksekusi program, menjalani fungsi-fungsi harian yang relevan, serta melaporkan pencapaian program secara periodik kepada Board. Setiap manager memiliki kewenangan untuk mengangkat staff sesuai dengan budget yang telah disetujui oleh Board. 
